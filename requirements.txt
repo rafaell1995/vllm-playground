@@ -1,0 +1,2 @@
+flask  # If you are using Flask
+requests  # If making outbound HTTP requests
